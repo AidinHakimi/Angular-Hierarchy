@@ -1,0 +1,10 @@
+div {
+    background-color: rgb(85, 107, 47);
+    width: 290px;
+    height: 120px;
+    border-radius: 50px;
+    margin-bottom: 30px;
+    position: relative;
+    top: 10px;
+    left: 5px;
+}
